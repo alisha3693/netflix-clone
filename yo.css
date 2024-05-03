@@ -1,0 +1,166 @@
+*{
+    padding: 0;
+    border:0;
+    margin: 0;
+  box-sizing: border-box;
+
+}
+.content{
+   background-color: black;
+    width:100%;
+   height: 4040px;
+    background-size: cover;
+    /* background: rgba(0 0 0 /40%); */
+    
+        
+
+}
+main{
+    height: 700px;
+    background-image: url("netflixbg2.jpg");
+    background-size: cover;
+ 
+    
+}
+.header1{
+    height:92px;
+    width:100%;
+    padding-left: 150px;
+    padding-right: 32px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    display: flex;
+    background-color: rgba(0,0,0,0.44);
+   
+}
+.logo{
+    height: 40px;
+    width:148;
+    margin-left: 16px;
+    margin-top: 8px;
+
+}
+.default-ltr-cache-1d568uk{
+    width: 148px;
+    height:40px;
+    color:#E50914;
+    fill: #E50914;
+    
+
+}
+path{
+    width: 148px;
+    height:40px;
+    color:#E50914;
+}
+.buttons{
+  
+    height:32px;
+   display: flex;
+justify-content: flex-end;
+   width: 850px;
+    
+}
+.lol{
+    height: 32px;
+    width:123px;
+    background-color: transparent;
+  font-weight: 600;
+    color:white;
+    border: 1px solid rgb(118,118,118);
+    border-radius: 4px;
+text-align: center;
+font-size: 14px;
+
+}
+.yolo{
+    width: 76px;
+    height: 32px;
+    background-color: #E50914;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+.gta{
+    width: 350px;
+    height: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding-right: 125px;
+    
+}
+.write{
+    height: 608px;
+    width: 100%;
+    background-color: rgba(0,0,0,0.44);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.movie{
+    width: 870px;
+    height: 61px;
+    font-size: 48px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+}
+.box2{
+    width: 870px;
+    height: 234px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.write2{
+    padding-top: 16px;
+    font-size: 24px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    
+}
+.write3{
+font-size: 20px;
+font-weight: 250;
+color: white;
+width: 806px;
+height: 30px;
+text-align: center;
+margin-top: 21px;
+}
+.text{
+    width: 368px;
+    height: 56px;
+    border-radius: 4px;
+    background-color: rgba(0,0,0,0.6);
+    color: lightgrey;
+    border: 1px solid rgb(118,118,118);
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 8px;
+    font-size: 17px;
+    font-weight: 600;
+}
+.joke{
+    margin-top: 16px;
+    width:586px;
+    height:56px;
+    display: flex;
+    justify-content: space-between;
+}
+.great{
+    width:209px;
+    height:56px;
+    background-color: #E50914;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+   font-weight: 300;
+   border-radius: 4px;
+}
